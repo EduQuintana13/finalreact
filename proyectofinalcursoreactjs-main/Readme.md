@@ -71,7 +71,7 @@ Muchos de las funciones de CartContext son utilizados en ItemCount y Cart
 CartContext-->ItemCount-->Cart
 
 Adicionalmente cada componentes fue divivido en tareas y explicado con detalled en
-https://github.com/macunan?tab=repositories
+https://github.com/EduQuintana13?tab=repositories
 
 Desde Tarea 2 en adelante
 
@@ -79,7 +79,7 @@ Desde Tarea 2 en adelante
 # Demo
 
 
-![Alt Text](https://github.com/macunan/proyectofinalcursoreactjs/blob/main/navegacion_proyectofinal.gif)
+
 
 
 ¡Saludos y gracias por corregir!
